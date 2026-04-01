@@ -1,10 +1,12 @@
 # NextDiscordBot 🚀
 
+NextDiscordBot是dc平台的简化形式的js脚本运行线程的机器人形式,有可视化的web页面操作非常舒服~
+
 [![Discord](https://img.shields.io/discord/WCZmdYQs?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/WCZmdYQs)
 
-> 🤖 **邀请开发者们加入社区一起交流**：[Discord 社区](https://discord.gg/WCZmdYQs)
+> 🤖 **邀请开发者们加入新社区一起交流**：[Discord 社区](https://discord.gg/WCZmdYQs)
 
-一个现代化的 Discord 机器人开发和管理平台。
+一个现代化的 Discord 机器人简易开发和管理平台!简化机器人开发的难度!
 
 ## ✨ 特性
 
@@ -34,7 +36,7 @@ pnpm install
 pnpm dev
 ```
 
-访问 http://localhost:3000 开始使用！
+访问 http://localhost:3000 开始使用！（密码默认admin123）
 
 ### 生产部署
 
@@ -45,6 +47,8 @@ pnpm build
 # 启动生产服务器
 pnpm start
 ```
+
+
 
 ## 📁 项目结构
 
