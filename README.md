@@ -2,6 +2,8 @@
 
 NextDiscordBot是dc平台的简化形式的js脚本运行线程的机器人形式,有可视化的web页面操作非常舒服~
 
+注:云部署环境限制可能导致部分功能无法使用为正常情况,多表现在api进行文件存储交互部分
+
 [![Discord](https://img.shields.io/discord/WCZmdYQs?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/WCZmdYQs)
 
 > 🤖 **邀请开发者们加入新社区一起交流**：[Discord 社区](https://discord.gg/WCZmdYQs)
